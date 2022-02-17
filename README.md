@@ -1,4 +1,5 @@
 # Frontend Mentor - NFT preview card component
+live link => https://maiyodev-nft-preview-component.netlify.app/
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
